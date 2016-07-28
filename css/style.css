@@ -1720,13 +1720,13 @@ img#wpstats {
 	}
 	.main-navigation li a {
 		border-bottom: 0;
-		color: #6a6a6a;
+		color: #FFB6C1;
 		line-height: 3.692307692;
 		text-transform: uppercase;
 		white-space: nowrap;
 	}
 	.main-navigation li a:hover {
-		color: #000;
+		color: #FF1493;
 	}
 	.main-navigation li {
 		margin: 0 40px 0 0;
